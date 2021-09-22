@@ -245,3 +245,60 @@
 
 // }
 // }
+
+// #include<bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+//     int tt;
+//     cin>>tt;
+//     while(tt--)
+//     {
+//         int s = 0 , r=0;
+//         int ar[6];
+//         for(int i =0;i<6;i++)
+//         {
+//             cin>>ar[i];
+//         }
+
+//         for(int i =0;i<6;i++)
+//         {
+//             if(ar[i] == 0)
+//             {
+//                 r++;
+//             }
+//             else
+//             {
+//                 s++;
+//             }
+//         }
+
+//         if(s>r)
+//         {
+//             cout<<"yes"<<endl;
+//         }
+//         else 
+//         {
+//             cout<<"no"<<endl;
+//         }
+        
+
+//     }
+
+// }
+
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int tt;
+    cin>>tt;
+    while(tt--)
+    {
+        int n,x;
+        cin>>n;
+        
+
+        
+    }
+}
