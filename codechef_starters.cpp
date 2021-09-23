@@ -287,6 +287,42 @@
 
 // }
 
+// #include<bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+//     int tt;
+//     cin>>tt;
+//     while(tt--)
+//     {
+//         int n,x;
+//         cin>>n;
+//         if(n == 1)
+//         {
+//             cout<<3<<endl;
+//         }
+//         else if(n == 2)
+//         {
+//             cout<<15<<endl;
+//         }
+//         else
+//         {
+//             cout<<3;
+//             for(int i =1 ;i<= n-2;i++)
+//             {
+//                 cout<<0;
+
+//             }
+//             cout<<3<<endl;
+
+//         }
+
+
+        
+//     }
+// }
+
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -295,10 +331,9 @@ int main()
     cin>>tt;
     while(tt--)
     {
-        int n,x;
-        cin>>n;
-        
-
-        
+        int a,b,c,x,y,z;
+        cin>>a>>b>>c>>x>>y>>z;
+        int r =  240/(a+b+c);
+        int a1 = x*r
     }
 }
